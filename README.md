@@ -1,4 +1,4 @@
-object-oriented programming
+Object-Oriented Programming
 
 Лабораторная работа номер 7
 
